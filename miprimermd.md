@@ -26,8 +26,7 @@ public class HolaMundo {
 ### Enlaces dentro del repositorio
 [README](README.md)
 
-![imagen](foto_taller.jpg)
-
+![imagen](https://github.com/Beronike/repo_Marckdown_Veronica/blob/main/foto_taller.jpg)
 ### tabla
 |color|codigo hexadecimal|
 |-------------|-------------|
