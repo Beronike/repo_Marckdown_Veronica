@@ -26,7 +26,7 @@ public class HolaMundo {
 ### Enlaces dentro del repositorio
 [README](README.md)
 
-[imagen](foto taller.jpg)
+![imagen](foto_taller.jpg)
 
 ### tabla
 |color|codigo hexadecimal|
